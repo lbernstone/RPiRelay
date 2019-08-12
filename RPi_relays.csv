@@ -1,0 +1,16 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"J2";"Molex_Micro-Fit_3.0_43045-0412_2x02_P3.00mm_Vertical";1;"Conn_01x04_Female";;;
+2;"U1";"HLK-PM01";1;"HLK-PMxx";;;
+3;"K1";"SRD-05VDC-SL-C";1;"G5Q-1";;;
+4;"J3";"Raspberry_PI_header";1;"Raspberry_Pi_2_3";;;
+5;"D1";"D_SOD-323";1;"B5818WS";;;
+6;"C1";"C_0805_2012Metric";1;"4.7uF";;;
+7;"Q1";"TSOT-23";1;"2N7002";;;
+8;"R1";"R_0805_2012Metric";1;"3K";;;
+9;"F1";"Fuse_2512_6332Metric";1;"10A";;;
+10;"REF**,REF**,REF**,REF**";"M3_screw";4;"M3 screw";;;
+11;"D2";"LED_1206_3216Metric";1;"2.4/25";;;
+12;"R3";"R_0805_2012Metric";1;"100";;;
+13;"G***";"LOGO";1;"LOGO";;;
+14;"J1";"TerminalBlock_MetzConnect_Type094_RT03504HBLU_1x04_P5.00mm_Horizontal";1;"PWR";;;
+15;"F2";"Littelfuse_LVR008NS";1;"50mA";;;

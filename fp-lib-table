@@ -1,3 +1,5 @@
 (fp_lib_table
   (lib (name switches)(type KiCad)(uri ${KICAD_USR_SYMBOL_DIR}/switches)(options "")(descr ""))
+  (lib (name Hi-Link)(type KiCad)(uri ${KICAD_USR_SYMBOL_DIR}/Hi-Link)(options "")(descr ""))
+  (lib (name Littelfuse)(type KiCad)(uri ${KICAD_USR_SYMBOL_DIR}/Littelfuse)(options "")(descr ""))
 )
